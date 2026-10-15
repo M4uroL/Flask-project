@@ -1,0 +1,9 @@
+{
+ "id": "Id do produto no banco de dados",
+ "name": "Nome do produto",
+ "description": "Descrição do produto",
+ "qtd": "Quantidade em estoque do produto",
+ "image": "Imagem do produto",
+ "price": "Preço do produto",
+ "date_created": "Data da criação do produto"
+}
